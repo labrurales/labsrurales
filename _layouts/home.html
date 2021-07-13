@@ -19,7 +19,7 @@
 			<!-- Inner -->
 			<div class="inner">
 				<header>
-					<h1><a href="index.html" id="logo">{{ site.title }}</a></h1>
+					<h1><a href="{{site.baseurl}}/index.html" id="logo">{{ site.title }}</a></h1>
 					<hr />
 					<p>{{ site.description }}</p>
 				</header>
@@ -48,7 +48,7 @@
 			<div class="reel">
 				{% for paisaje in site.data.paisajes %}
 				<article>
-					<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+					<a href="#" class="image featured"><img src="{{site.baseurl}}images/pic01.jpg" alt="" /></a>
 					<header>
 						<h3><a href="#">{{paisaje.title}}</a></h3>
 					</header>
@@ -66,7 +66,7 @@
 		<div class="wrapper style2">
 
 			<article id="main" class="container special">
-				<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+				<a href="#" class="image featured"><img src="{{site.baseurl}}images/pic06.jpg" alt="" /></a>
 				<header>
 					<h2><a href="#">Sed massa imperdiet magnis</a></h2>
 					<p>
@@ -106,7 +106,7 @@
 				</header>
 				<div class="row">
 					<article class="col-4 col-12-mobile special">
-						<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="{{site.baseurl}}images/pic07.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Gravida aliquam penatibus</a></h3>
 						</header>
@@ -118,7 +118,7 @@
 						</p>
 					</article>
 					<article class="col-4 col-12-mobile special">
-						<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="{{site.baseurl}}images/pic08.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Sed quis rhoncus placerat</a></h3>
 						</header>
@@ -130,7 +130,7 @@
 						</p>
 					</article>
 					<article class="col-4 col-12-mobile special">
-						<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+						<a href="#" class="image featured"><img src="{{site.baseurl}}images/pic09.jpg" alt="" /></a>
 						<header>
 							<h3><a href="#">Magna laoreet et aliquam</a></h3>
 						</header>

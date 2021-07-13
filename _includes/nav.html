@@ -1,6 +1,6 @@
 <nav id="nav">
     <ul>
-        <li><a href="/index.html">Inicio</a></li>
+        <li><a href="{{site.baseurl}}/index.html">Inicio</a></li>
         {% for page in site.pages %}
         <li><a href="{{page.url | prepend:site.baseurl}}">{{ page.title }}</a></li>
         {% endfor %}
