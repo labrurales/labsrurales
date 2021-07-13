@@ -1,0 +1,16 @@
+<div class="row">
+    {% for paisaje in site.data.paisajes %}
+    <article class="col-4 col-12-mobile special">
+        <a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+        <header>
+            <h3><a href="#">{{paisaje.title}}</a></h3>
+        </header>
+        <p>
+            {{paisaje.description}}}
+        </p>
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+            src="https://w.soundcloud.com/player/?url={{paisaje.recording | url_encode}}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+    </article>
+    {% endfor %}
+</div>
