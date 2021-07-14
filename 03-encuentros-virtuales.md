@@ -48,21 +48,23 @@ Licenciada en Biologia por la UMA y mestra en desarrollo rural por la UFRGS. Tra
 
 _Moderación:_
 
-3Colibris  (Colombia)                                
+[3Colibris](https://3colibris.com/)  (Colombia)                                
 Ana Prada Paez
 Colombiana. Está interesada en la ruralidad colombiana y latinoamericana y ha acompañado procesos de producción orgánicos y agroecológicos en Colombia, México, Guatemala, Costa Rica, Ecuador y Perú. Es fundadora de 3colibris y ha acompañado desde distintas organizaciones en la implementación del Acuerdo de Paz en los puntos de reforma rural integral, Reincorporación económica y solución al problema de drogas. Es becaria pro paz de la Universidad de Queensland,  Administradora de empresas y sociología en la Universidad Javeriana de Bogotá y Alumna del Entrenamiento Internacional en Diálogo y Mediación de la Universidad de Uppsala y el curso internacional de Sistemas alimentarios y dietas sustentables y saludables de la Universidad de Wageningen.
 
 **Enlace video primera sesión**
 
 
-## **_Segunda Sesión: 19 de Julio 2021_**
+### **_Segunda Sesión: 19 de Julio 2021_**
 
 ![Img Segunda sesión EVLabsRurales](https://user-images.githubusercontent.com/87378353/125688851-dfb5842f-c689-4123-9c58-b56a530c7d7c.jpg)
 
 _Iniciativas_
 
 [Silo  – Arte e Latitude Rural](https://silo.org.br/)   (Brasil) 
+
 Cinthia Mendonça  
+
 
 [La Frabrika de Toda la Vida ](https://lfdtv.org/)   (España)  
 
@@ -75,5 +77,5 @@ Gabriel Vanegas
 
 _Moderación:_
 
-Juan David Reina
+[Juan David Reina-Rozo](innovationjourney.wordpress.com/) (Colombia)
 
