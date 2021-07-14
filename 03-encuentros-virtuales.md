@@ -57,7 +57,8 @@ Colombiana. Está interesada en la ruralidad colombiana y latinoamericana y ha a
 
 ## **_Segunda Sesión: 19 de Julio 2021_**
 
-![Img Segunda sesión EVLabsRurales](https://user-images.githubusercontent.com/87378353/125688851-dfb5842f-c689-4123-9c58-b56a530c7d7c.jpg)
+![Img Segunda sesión EVLabsRurales](https://user-images.githubusercontent.com/87378353/125692670-a38be574-6b44-45c3-9b3a-dad2708a585b.jpg)
+
 
 _Iniciativas_
 
