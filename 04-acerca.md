@@ -3,11 +3,10 @@ layout: page
 title: "Acerca de"
 permalink: /acerca/
 ---
-# Acerca de
 
 La residencia LabsRurales como emergencia para los sistemas educativos de la ruralidad llevada a cabo en el mes de Julio de 2021 en MediaLab Prado se concibe como un proyecto andariego por la(s) ruralidad(es) de España y Colombia -en primer lugar- y por algunas otras en el tiempo por venir. 
 
-_Antecedentes_
+## Antecedentes
 
 Este proyecto tiene por antecedentes la participación de Juan David Reina-Rozo en diversos espacios de creación colectiva conocidos como los [Encuentros Internacionales de Diseño para el Desarrollo](https://www.idin.org/idds), de los cuales fue organizador en las versiones 2015, 2016, 2017 y 2018 llevadas a cabo en Colombia. Así mismo, participó en los Laboratorios Iberoamericanos de Innovación Ciudadana - LABIC, en especial a través del proyecto [Radio Ciudadana](https://www.innovacionciudadana.org/laboratorios/portfolio/radios-ciudadanas/) y su correpondiente [documentación](https://radiolabic.wordpress.com/), y acompaño el [LABIC Colombia en 2016](https://www.innovacionciudadana.org/laboratorios/labicco/) y el Laboratorio [Ciudades que Aprenden en México DF](https://escueladehumanidades.tec.mx/ehe/content/laboratorio-de-innovaci%C3%B3n-ciudadana-ciudades-que-aprenden).
 
