@@ -3,7 +3,7 @@ layout: page
 title: "Encuentros Virtuales"
 permalink: /encuentros-virtuales/
 ---
-**Encuentro Virtual LabsRurales en el ámbito Iberoaméricano**
+## **Encuentro Virtual LabsRurales en el ámbito Iberoaméricano**
 
 _12 y 19 de Julio de 2021_
 
@@ -13,7 +13,7 @@ Los Laboratorios Rurales (LabsRurales) surgen como experiencias diversas alreded
 
 
 
-**_Primera Sesión: 12 de Julio 2021_**
+## **_Primera Sesión: 12 de Julio 2021_**
 
 ![Img Primera sesión EVLabsRurales](https://user-images.githubusercontent.com/87378353/125688819-3a01d273-c590-4ac6-bd1f-272e54d50b00.jpg)
 
@@ -55,7 +55,7 @@ Colombiana. Está interesada en la ruralidad colombiana y latinoamericana y ha a
 **Enlace video primera sesión**
 
 
-**_Segunda Sesión: 19 de Julio 2021_**
+## **_Segunda Sesión: 19 de Julio 2021_**
 
 ![Img Segunda sesión EVLabsRurales](https://user-images.githubusercontent.com/87378353/125688851-dfb5842f-c689-4123-9c58-b56a530c7d7c.jpg)
 
