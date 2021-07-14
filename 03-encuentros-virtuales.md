@@ -9,8 +9,7 @@ _12 y 19 de Julio de 2021_
 
 Los Laboratorios Rurales (LabsRurales) surgen como experiencias diversas alrededor de la creación en en la(s) ruralidad(es). Motivaciones, intereses y quehacerses se tejen para la generación de iniciativas vinculadas a la educación, exploración, experimentación y creación cultural, científica y tecnológica de forma ampliada. Procesos que le apuestan a relacionarse desde nuevos lugares con la(s) ruralidad(es), que están siendo despoblada(s), vaciada(s) y abandonada(s) sistemáticamente por causas políticas, económicas e históricas. En el marco de la Residencia “LabsRurales: emergencia para los sistemas educativos de la ruralidad” se espera generar un encuentro de dos sesiones entre experiencias que desde la pluralidad de contextos y prácticas provoquen nuevas ideas sobre crear desde las) ruralidad(es). 
 
-
-(![Img Encuentro Virtual - LabsRurales en Iberoamérica](https://user-images.githubusercontent.com/87378353/125688753-b1613393-d419-44b8-b66c-fb33a71449c5.jpg)
+![Img Encuentro Virtual - LabsRurales en Iberoamérica](https://user-images.githubusercontent.com/87378353/125688753-b1613393-d419-44b8-b66c-fb33a71449c5.jpg)
 
 
 
@@ -53,8 +52,7 @@ _Moderación:_
 Ana Prada Paez
 Colombiana. Está interesada en la ruralidad colombiana y latinoamericana y ha acompañado procesos de producción orgánicos y agroecológicos en Colombia, México, Guatemala, Costa Rica, Ecuador y Perú. Es fundadora de 3colibris y ha acompañado desde distintas organizaciones en la implementación del Acuerdo de Paz en los puntos de reforma rural integral, Reincorporación económica y solución al problema de drogas. Es becaria pro paz de la Universidad de Queensland,  Administradora de empresas y sociología en la Universidad Javeriana de Bogotá y Alumna del Entrenamiento Internacional en Diálogo y Mediación de la Universidad de Uppsala y el curso internacional de Sistemas alimentarios y dietas sustentables y saludables de la Universidad de Wageningen.
 
-
-Enlace embebido video primera sesión
+**Enlace video primera sesión**
 
 
 **_Segunda Sesión: 19 de Julio 2021_**
