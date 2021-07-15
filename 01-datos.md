@@ -8,11 +8,13 @@ permalink: /datos/
 
 El mundo rural hoy, es un mundo cada vez más amenazado. Despoblado, descampesinizado y desplazado. Vivimos en una constante urbanización no solo del entorno, sino de nuestras relaciones y lógicas. 
 
-Hoy 2020 solo el **43,85%** de la población es rural. 
-Para el 2050, tan solo el **31.6%** de la población vivirá en zonas rurales, mientras, el **68.4% **vivirá en zonas urbanas.
+Hoy 2020 solo el **43,85%** de la población es rural.
+
+Para el 2050, tan solo el **31.6%** de la población vivirá en zonas rurales, mientras, el **68.4% ** vivirá en zonas urbanas.
+
 ¿Qué nos esperará?
 
-A continuación se presentan una serie de vizualizaciones de datos correspondientes a la población rural (% de la población total) en el mundo y su cambio en 80 años (1960-2020).
+A continuación, se presentan una serie de vizualizaciones de datos correspondientes a la población rural (% de la población total) en el mundo y su cambio en 80 años (1960-2020).
 
 ### % Población rural en 1960
 
