@@ -19,19 +19,19 @@ En las siguientes postales encontrarán iniciativas y experiencias de creación 
 ### Iniciativas
 
 * Rural Experimenta III (Vilafranca - Comunidad Valenciana)
-https://culturayciudadania.culturaydeporte.gob.es/cultura-medio-rural/rural-experimenta-3.html 
+[https://culturayciudadania.culturaydeporte.gob.es/cultura-medio-rural/rural-experimenta-3.html ](https://culturayciudadania.culturaydeporte.gob.es/cultura-medio-rural/rural-experimenta-3.html)
 
 *  Museo Vida Rural (L'Espluga de Francolí - Cataluña)
-https://museuvidarural.cat/ 
+[https://museuvidarural.cat/](https://museuvidarural.cat/) 
 
 *  Campo Adentro (Madrid - Sierra Norte)
-http://car.inland.org/
+[http://car.inland.org/](http://car.inland.org/)
 
 *  Escuela Itinera (Redueña - Comunidad de Madrid)
-https://www.tierrasagroecologicas.es/itinera/ 
+[https://www.tierrasagroecologicas.es/itinera/](https://www.tierrasagroecologicas.es/itinera/)
 
 *  Aterra Bizimodu - Ecoaldea (Artieda - Navarra)
-https://arterrabizimodu.org/
+[https://arterrabizimodu.org/](https://arterrabizimodu.org/)
 
 *  La Fabrika de toda la vida (Los Santos de Moima - Extremadura)
-https://lfdtv.org/ 
+[https://lfdtv.org/ ](https://lfdtv.org/)
