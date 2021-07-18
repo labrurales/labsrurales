@@ -6,6 +6,11 @@ permalink: /acerca/
 
 La residencia LabsRurales como emergencia para los sistemas educativos de la ruralidad llevada a cabo en el mes de Julio de 2021 en MediaLab Prado se concibe como un proyecto andariego por la(s) ruralidad(es) de España y Colombia -en primer lugar- y por algunas otras en el tiempo por venir.
 
+Colaboradorxs:
+Alejandra Cala Vergel (Ilustración)                     - acalav@unal.edu.co
+Diego Ramírez         (Desarrollo web e investigación)  - 
+Paola Rodriguez       (Investigación)                   - paolarodcat@gmail.com
+
 <div class="row aln-center">
     <img src="{{site.baseurl}}/images/Img LabsRuralesLabLabLab.jpg">
 </div>
