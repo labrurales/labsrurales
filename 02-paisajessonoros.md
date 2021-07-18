@@ -18,7 +18,7 @@ En las siguientes postales encontrarán iniciativas y experiencias de creación 
 
 ### Iniciativas
 
-* PenyaLab (Vistabella del Maestrat - Comunidad Valenciana) h[ttp://www.penyalab.org/](http://www.penyalab.org/)
+* PenyaLab (Vistabella del Maestrat - Comunidad Valenciana) [http://www.penyalab.org/](http://www.penyalab.org/)
 
 * Rural Experimenta III (Vilafranca - Comunidad Valenciana)
 [https://culturayciudadania.culturaydeporte.gob.es/cultura-medio-rural/rural-experimenta-3.html ](https://culturayciudadania.culturaydeporte.gob.es/cultura-medio-rural/rural-experimenta-3.html)
