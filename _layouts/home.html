@@ -48,11 +48,7 @@
 			<div class="reel">
 				{% for paisaje in site.data.paisajes %}
 				<article>
-					{% unless paisaje.photo != empty %}
 					<span class="image featured"><img src="{{site.baseurl}}/images/{{paisaje.photo}}" alt="{{paisaje.title}}"  title="{{paisaje.title}}"/></span>
-					{% else %}
-					<span class="image featured"><img src="{{site.baseurl}}/images/pic01.jpg" alt="{{paisaje.title}}"  title="{{paisaje.title}}"/></span>
-					{% endunless %}
 					<iframe src="{{paisaje.recording}}" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 					<header>
 						<h3><a href="{{site.baseurl}}/paisajes-sonoros">{{paisaje.title}}</a></h3>
