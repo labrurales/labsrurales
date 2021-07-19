@@ -9,10 +9,10 @@ permalink: /encuentros-virtuales/
 {%for post in site.posts %}
 
 <article class="col-4 col-12-mobile special">
-    <a href="{{post.url}}" class="image featured"><img src="{{site.baseurl}}/images/{{post.image}}"
+    <a href="{{site.baseurl}}{{post.url}}" class="image featured"><img src="{{site.baseurl}}/images/{{post.image}}"
             alt="{{post.title}}" /></a>
     <header>
-        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+        <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
     </header>
     <p>
         {{ post.excerpt | strip_html | truncatewords: 50 }}
