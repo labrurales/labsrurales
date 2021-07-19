@@ -4,7 +4,7 @@ title: "Primera Sesión: 12 de Julio 2021"
 image: Img Primera sesión EVLabsRurales.jpg
 dates: 12 de Julio 2021
 excerpt: SumercéLab, Instituto Invento, Centro Rural de Arte, Escuela Itinera
-categories: encuentros
+tags: encuentros
 ---
 
 ### Iniciativas
