@@ -1,13 +1,8 @@
 <div class="row">
     {% for paisaje in site.data.paisajes %}
     <article class="col-4 col-12-mobile special grid">
-        {% unless paisaje.photo != empty %}
         <span class="image featured"><img src="{{site.baseurl}}/images/{{paisaje.photo}}" alt="{{paisaje.title}}"
                 title="{{paisaje.title}}" /></span>
-        {% else %}
-        <span class="image featured"><img src="{{site.baseurl}}/images/pic01.jpg" alt="{{paisaje.title}}"
-                title="{{paisaje.title}}" /></span>
-        {% endunless %}
         <header>
             <h3>{{paisaje.title}}</h3>
         </header>
