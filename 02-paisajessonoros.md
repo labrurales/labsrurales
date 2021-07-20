@@ -15,25 +15,3 @@ Se continua, así, con los procesos de investigación-creación alrededor de las
 En las siguientes postales encontrarán iniciativas y experiencias de creación cultural, artística, editorial y tecnocientífica visitadas entre los meses de Junio y Julio de 2021 en el marco de la Residencia MediaLab Prado - Plataforma Bogota.   
 
 {% include paisajes.html %}
-
-### Iniciativas
-
-* PenyaLab (Vistabella del Maestrat - Comunidad Valenciana) [http://www.penyalab.org/](http://www.penyalab.org/)
-
-* Rural Experimenta III (Vilafranca - Comunidad Valenciana)
-[https://culturayciudadania.culturaydeporte.gob.es/cultura-medio-rural/rural-experimenta-3.html ](https://culturayciudadania.culturaydeporte.gob.es/cultura-medio-rural/rural-experimenta-3.html)
-
-*  Museo Vida Rural (L'Espluga de Francolí - Cataluña)
-[https://museuvidarural.cat/](https://museuvidarural.cat/) 
-
-*  Campo Adentro (Madrid - Sierra Norte)
-[http://car.inland.org/](http://car.inland.org/)
-
-*  Escuela Itinera (Redueña - Comunidad de Madrid)
-[https://www.tierrasagroecologicas.es/itinera/](https://www.tierrasagroecologicas.es/itinera/)
-
-*  Aterra Bizimodu - Ecoaldea (Artieda - Navarra)
-[https://arterrabizimodu.org/](https://arterrabizimodu.org/)
-
-*  La Fabrika de toda la vida (Los Santos de Maimona - Extremadura)
-[https://lfdtv.org/ ](https://lfdtv.org/)
