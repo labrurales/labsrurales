@@ -12,11 +12,13 @@ Juan David Reina-Rozo  - juandax@riseup.net
 
 _Colaboradorxs_:
 
-Alejandra Cala Vergel (Ilustración)                     - acalav@unal.edu.co
-
-Diego Ramírez         (Desarrollo web e investigación)  - 
-
-Paola Rodriguez       (Investigación)                   - paolarodcat@gmail.com
+Alejandra Cala            (Ilustración y diseño web)         - acalav@unal.edu.co
+Diego Ramírez             (Desarrollo web e investigación)   - dramirezaragon@gmail.com
+Paola Rodriguez           (Investigación)                    - paolarodcat@gmail.com
+Catalina Salazar Calderón (Diseño fanzine)                   - Dibujosmuyanimados@gmail.com
+Felipe Otálora            (Edición material audiovisual)     - faotalorar@unal.edu.co
+Felipe Herreño            (Impresión gráfica)                - elhonorablecartel@gmail.com
+Amelia Rose Hind          (Correccin de estilo y traducción) - millie.hind@btinternet.com  
 
 <div class="row aln-center">
     <img src="{{site.baseurl}}/images/Img LabsRuralesLabLabLab.jpg">
