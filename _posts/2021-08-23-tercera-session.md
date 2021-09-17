@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tercera Sesión: 23 de Agosto 2021"
+title: "Tercera Sesión"
 image: Img Tercera sesión EVLabsRurales.jpg
 dates: 23 de Agosto 2021
 excerpt: Silo - Arte e Latitude Rural, La Fabrika de Toda la Vida, MinkaLab TODO
