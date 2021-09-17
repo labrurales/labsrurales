@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socialización Plataforma Bogotá: 24 de Septiembre 2021"
+title: "Socialización Plataforma Bogotá"
 image: Img Socialización final - 24 de Septiembre.jpg
 dates: 24 de Septiembre 2021
 excerpt: Residencia, MediaLab Prado, Plataforma Bogotá.
