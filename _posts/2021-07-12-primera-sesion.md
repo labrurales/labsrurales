@@ -7,6 +7,9 @@ excerpt: SumercéLab, Instituto Invento, Centro Rural de Arte, Escuela Itinera
 tags: encuentros
 ---
 
+<iframe src="https://archive.org/embed/encuentro-virtual-de-labs-rurales-en-iberoamerica-1" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 ### Iniciativas
 
 #### [SumercéLab](https://labruralunal.wixsite.com/labruralnocaima)
