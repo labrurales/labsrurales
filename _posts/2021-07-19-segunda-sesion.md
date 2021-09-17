@@ -7,6 +7,8 @@ excerpt: Silo - Arte e Latitude Rural, La Fabrika de Toda la Vida, MinkaLab
 tags: encuentros
 ---
 
+<iframe src="https://archive.org/embed/encuentro-virtual-de-labs-rurales-en-iberoamerica-2" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ### Iniciativas
 
 #### [Silo – Arte e Latitude Rural](https://silo.org.br/)
