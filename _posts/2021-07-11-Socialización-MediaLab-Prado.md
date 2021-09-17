@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socialización MediaLab: 20 de Julio 2021"
+title: "Socialización MediaLab"
 image: Img Socialización.jpg
 dates: 20 de Julio 2021
 excerpt: Residencia, MediaLab Prado, Plataforma Bogotá.
