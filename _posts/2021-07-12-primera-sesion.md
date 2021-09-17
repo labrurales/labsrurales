@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primera Sesión: 12 de Julio 2021"
+title: "Primera Sesión"
 image: Img Primera sesión EVLabsRurales.jpg
 dates: 12 de Julio 2021
 excerpt: SumercéLab, Instituto Invento, Centro Rural de Arte, Escuela Itinera
@@ -54,7 +54,7 @@ Licenciada en Biologia por la UMA y mestra en desarrollo rural por la UFRGS. Tra
 
 <hr>
 
-### Moderador
+### Moderadora
 
 #### [3Colibris](https://3colibris.com/)
 
