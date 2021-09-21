@@ -17,12 +17,14 @@ tags: encuentros
 
 ##### Cinthia Mendonça
 
+<br>
 #### [La Frabrika de Toda la Vida](https://lfdtv.org/)
 
 (España)
 
 ##### Siro Santos
 
+<br>
 #### [MinkaLab](https://www.minkalab.org/)
 
 (Colombia)

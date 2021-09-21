@@ -9,7 +9,6 @@ tags: encuentros
 
 <iframe src="https://archive.org/embed/encuentro-virtual-de-labs-rurales-en-iberoamerica-1" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
 ### Iniciativas
 
 #### [SumercéLab](https://labruralunal.wixsite.com/labruralnocaima)
@@ -23,6 +22,7 @@ Bogotana. Doctora en Ingeniería Química (2020), maestría en Ingeniería Agrí
 ##### Gustavo Adolfo Ramírez
 
 Es diseñador industrial de la Universidad de los Andes, especializado en diseño de producto, con énfasis en transformación de Maderas, aluminio, resinas y fibra de vidrio. Hace parte del equipo de Sumerce Lab, un laboratorio rural que busca aumentar la participación de la comunidad en procesos de exploración y búsqueda de soluciones a sus necesidades cotidianas.
+<br>
 
 #### [Instituto Invento](https://invento.org.br/)
 
@@ -31,6 +31,7 @@ Es diseñador industrial de la Universidad de los Andes, especializado en diseñ
 ##### Oda Scatolini
 
 Biólogo. Trabalhou por 9 anos como analista ambiental no Ministério do Meio Ambiente do Brasil para a sustentabilidade de comunidades tradicionais, pequenos agricultores e povos indígenas. Membro da rede IDIN, tem experiências em facilitação, design e co-criação de tecnologias com comunidades em países da América Latina, África e Ásia. Idealizador do Projeto AeTrapp – Monitoramento Cidadão de Focos de Mosquitos Aedes, um dos vencedores do Desafio Google de Impacto Social 2016 pelo WWF-Brasil. Diretor Executivo e sócio fundador do Instituto Invento.
+<br>
 
 #### [Centro Rural de Arte](http://www.centroruraldearte.org.ar/)
 
@@ -43,6 +44,7 @@ Reside en la Ciudad de Buenos Aires. Trabaja desde las Artes del Movimiento inte
 ##### Maria Jose Trucco
 
 Investigadora en el campo de las artes vivas. Se graduó como Licenciada en Artes Combinadas (FFyL, Universidad de Buenos Aires, 2004); estudió actuación, dramaturgia y dirección de teatro; cursó la Especialización en Epistemologías del Sur (CLACSO, 2017) y con la práctica del cultivar, va aprendiendo de agroecología y biodinámica. Dedicada a la creación de proyectos interdisciplinarios de encuentro e intercambio. Realiza tareas de creación, curaduría, comunicación, docencia, diseño de actividades y producción general. Trabaja en escuelas, viveros, casas, cárceles, escenarios, plazas, ferias de alimentos, parques nacionales y en colaboración con diversos conocimientos específicos. En 2008 co-inventa CRA centro rural de arte, desde donde trabaja de modo nómade en procesos de creación situados en y desde territorios rurales, ahí comparte la co-dirección general del proyecto. Reside en el pueblo-vivero Cazón, en la cuenca del Río Salado, pampa húmeda de Argentina.
+<br>
 
 #### [Escuela Itinera](https://www.tierrasagroecologicas.es/itinera/)
 
@@ -62,4 +64,4 @@ Licenciada en Biologia por la UMA y mestra en desarrollo rural por la UFRGS. Tra
 
 ##### Ana Prada Paez
 
-info: Colombiana. Está interesada en la ruralidad colombiana y latinoamericana y ha acompañado procesos de producción orgánicos y agroecológicos en Colombia, México, Guatemala, Costa Rica, Ecuador y Perú. Es fundadora de 3colibris y ha acompañado desde distintas organizaciones en la implementación del Acuerdo de Paz en los puntos de reforma rural integral, Reincorporación económica y solución al problema de drogas. Es becaria pro paz de la Universidad de Queensland, Administradora de empresas y sociología en la Universidad Javeriana de Bogotá y Alumna del Entrenamiento Internacional en Diálogo y Mediación de la Universidad de Uppsala y el curso internacional de Sistemas alimentarios y dietas sustentables y saludables de la Universidad de Wageningen.
+Colombiana. Está interesada en la ruralidad colombiana y latinoamericana y ha acompañado procesos de producción orgánicos y agroecológicos en Colombia, México, Guatemala, Costa Rica, Ecuador y Perú. Es fundadora de 3colibris y ha acompañado desde distintas organizaciones en la implementación del Acuerdo de Paz en los puntos de reforma rural integral, Reincorporación económica y solución al problema de drogas. Es becaria pro paz de la Universidad de Queensland, Administradora de empresas y sociología en la Universidad Javeriana de Bogotá y Alumna del Entrenamiento Internacional en Diálogo y Mediación de la Universidad de Uppsala y el curso internacional de Sistemas alimentarios y dietas sustentables y saludables de la Universidad de Wageningen.

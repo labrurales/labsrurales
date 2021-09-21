@@ -9,27 +9,29 @@ tags: encuentros
 
 <iframe src="https://archive.org/embed/encuentro-virtual-de-labs-rurales-en-iberoamerica-3" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
-
 ### Iniciativas
 
-#### [Silo – Arte e Latitude Rural](https://silo.org.br/)
-
-(Brasil)
-
-##### Cinthia Mendonça
-
-#### [La Frabrika de Toda la Vida](https://lfdtv.org/)
-
-(España)
-
-##### Siro Santos
-
-#### [MinkaLab](https://www.minkalab.org/)
+#### Selvatorium
 
 (Colombia)
 
-##### Gabriel Vanegas
+##### Vanessa Gocksch
+
+<br>
+
+#### [Kara Solar](https://karasolar.com/)
+
+(Ecuador)
+
+##### Juan Manuel Crespo
+
+<br>
+
+#### [Penyalab](http://www.penyalab.org/)
+
+(España)
+
+##### Anna Agustí y Helena Braw Bou
 
 <hr>
 

@@ -4,11 +4,9 @@ title: "Textos"
 permalink: /textos/
 ---
 
-TODO
-
 <div class="row">
 
-{%for post in site.posts %}
+{%for post in site.textos %}
 
 <article class="col-4 col-12-mobile special">
     <a href="{{site.baseurl}}{{post.url}}" class="image featured"><img src="{{site.baseurl}}/images/{{post.image}}"
