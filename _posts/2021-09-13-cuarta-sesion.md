@@ -7,7 +7,7 @@ excerpt: LaPonte Ecomuseú, Portal del Sur, Colectivo Etineranceas, CITSAC
 tags: encuentros
 ---
 
-<iframe src="https://archive.org/embed/encuentro-virtual-de-labs-rurales-en-iberoamerica-4" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/encuentro-virtual-de-labs-rurales-en-iberoamerica-parte-4" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### Iniciativas
 
@@ -27,7 +27,7 @@ tags: encuentros
 
 <br>
 
-#### Colectivo Etinerâncias
+#### [Colectivo Etinerâncias](https://etinerancias.com.br/)
 
 (Brasil)
 
@@ -37,6 +37,6 @@ tags: encuentros
 
 ### Moderador
 
-#### Adrián López
+#### Adrián López - [CITSAC](https://citsac.org/) 
 
 (México)
