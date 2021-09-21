@@ -20,7 +20,6 @@
 			<div class="inner">
 				<header>
 					<h1><a href="{{site.baseurl}}/index.html" id="logo">{{ site.title }}</a></h1>
-					<hr />
 					<p>{{ site.description }}</p>
 				</header>
 				<footer>
@@ -37,7 +36,8 @@
 			<header>
 				<h2>Reflexionando conjuntamente alrededor de los <strong>LabsRurales</strong>.</h2>
 				<p>
-					Problematizando la cuestión Rural y los procesos de creación, exploración, experimentación cultural, artística, científica y tecnológica. 
+					Problematizando la cuestión Rural y los procesos de creación, exploración, experimentación cultural,
+					artística, científica y tecnológica.
 				</p>
 			</header>
 		</section>
@@ -47,14 +47,17 @@
 			<div class="reel">
 				{% for paisaje in site.data.paisajes %}
 				<article>
-					<span class="image featured"><img src="{{site.baseurl}}/images/{{paisaje.photo}}"
-							alt="{{paisaje.title}}" title="{{paisaje.title}}" /></span>
+					<span class="image featured"><a href="{{site.baseurl}}/paisajes-sonoros"><img
+								src="{{site.baseurl}}/images/{{paisaje.photo}}" alt="{{paisaje.title}}"
+								title="{{paisaje.title}}" /></a></span>
 					<iframe src="{{paisaje.recording}}" width="100%" height="30" frameborder="0"
 						webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+					<!--
 					<header>
 						<h3><a href="{{site.baseurl}}/paisajes-sonoros">{{paisaje.title}}</a></h3>
 					</header>
 					{{ paisaje.description }}
+					-->
 				</article>
 				{% endfor %}
 
@@ -89,7 +92,8 @@
 			<section id="features" class="container special">
 				<header>
 					<h2>Actividades presenciales y virtuales</h2>
-					<p>Espacios de encuentro, diálogo y reflexión entorno a iniciativas de creación desde la(s) ruralida(es)</p>
+					<p>Espacios de encuentro, diálogo y reflexión entorno a iniciativas de creación desde la(s)
+						ruralida(es)</p>
 				</header>
 				<div class="row">
 					{%for post in site.posts limit:3%}
