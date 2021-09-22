@@ -23,7 +23,6 @@ permalink: /textos/
         {% endif %}
     {{post.author}}
     </p>
-    <p>{{ post.excerpt | strip_html | truncatewords: 10 }}</p>
 </article>
 {% endfor %}
 </div>

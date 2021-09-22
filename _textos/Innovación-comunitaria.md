@@ -1,16 +1,15 @@
 ---
 layout: page
 title: "Innovación comunitaria y las economías de paz con enfoque territorial"
-excerpt: ""
 author: "Ana Prada Paez"
 author_url: https://www.3colibris.com
 author_twitter: https://twitter.com/3colibris
-email: "anapradap@gmail.com"
+author_email: "anapradap@gmail.com"
 ---
 
 ### Ana Prada
 
-# [<i class="fas fa-home"></i> www.3colibris.com](https://www.3colibris.com)
+[<i class="fas fa-home"></i>](https://www.3colibris.com) [<i class="far fa-envelope"></i>](mailto:anapradap@gmail.com)
 
 En esta ocasión comparto sentipensares que devienen de viajes, conversaciones y cosechas compartidas en chagras y milpas de un mismo suelo latinoamericano, descubriendo puntos de encuentro entre la innovación comunitaria y la transformación de conflictos, como dos puertas de entrada complementarias para dinamizar alternativas de construcción de economías de paz a nivel territorial, que permitan a personas y comunidades acercarse a su propia noción de Vida Querida.
 
@@ -35,6 +34,6 @@ En su trayectoria, se ha consolidado como un proceso autogestionado con un proye
 
 A manera de cierre, los espacios como el Encuentro Virtual de Laboratorios Rurales en Iberoamérica son fundamentales para compartir sentipensares auténticos y genuinos desde distintas latitudes del mundo, dinamizando la co-creación de métodos frescos y pragmáticos que promueven la construcción de redes y la puesta en marcha de acciones trasgresoras y colaborativas para resolver problemas reales desde la voz de sus protagonistas.
 
-Bogotá, Colombia.
+_Bogotá, Colombia._
 
-Septiembre de 2021
+_Septiembre de 2021_
