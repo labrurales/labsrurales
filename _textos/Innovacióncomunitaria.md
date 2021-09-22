@@ -1,11 +1,15 @@
 ---
 layout: page
 title: "Innovación comunitaria y las economías de paz con enfoque territorial"
-excerpt: "Resumen"
+excerpt: " Ana Prada
+anapradap@gmail.com 
+www.3colibris.com"
 ---
 
 Ana Prada
+
 anapradap@gmail.com 
+
 www.3colibris.com 
 
 En esta ocasión comparto sentipensares que devienen de viajes, conversaciones y cosechas compartidas en chagras y milpas de un mismo suelo latinoamericano, descubriendo puntos de encuentro entre la innovación comunitaria y la transformación de conflictos, como dos puertas de entrada complementarias para dinamizar alternativas de construcción de economías de paz a nivel territorial, que permitan a personas y comunidades acercarse a su propia noción de Vida Querida. 
