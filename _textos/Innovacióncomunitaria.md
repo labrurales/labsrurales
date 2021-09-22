@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Innovación comunitaria y las economías de paz con enfoque territorial"
-excerpt: " Ana Prada anapradap@gmail.com www.3colibris.com"
+excerpt: " Ana Prada Paez"
 ---
 
 **Ana Prada**
@@ -33,3 +33,7 @@ Ecobufalo Campesino es un proceso comunitario que lleva más de 20 años apostá
 En su trayectoria, se ha consolidado como un proceso autogestionado con un proyecto económico y político propio que defiende el arraigo por el territorio pese a la persistencia del conflicto armado. Ecobúfalo Campesino se ha logrado sostener en el tiempo por sus capacidades organizativas de tejer saberes locales y externos y de instalar mecanismos participativos de toma de decisiones efectivos para resolver problemas cotidianos en cada eslabón del encadenamiento productivo de alimentos cárnicos y lácteos.
 
 A manera de cierre, los espacios como el Encuentro Virtual de Laboratorios Rurales en Iberoamérica son fundamentales para compartir sentipensares auténticos y genuinos desde distintas latitudes del mundo, dinamizando la co-creación de métodos frescos y pragmáticos que promueven la construcción de redes y la puesta en marcha de acciones trasgresoras y colaborativas para resolver problemas reales desde la voz de sus protagonistas. 
+
+
+Bogotá, Colombia.
+Septiembre de 2021
