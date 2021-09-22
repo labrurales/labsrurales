@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Innovación comunitaria y las economías de paz con enfoque territorial"
-excerpt: " Ana Prada Paez"
+excerpt: "Ana Prada Paez"
 ---
 
 **Ana Prada**
