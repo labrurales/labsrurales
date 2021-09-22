@@ -2,7 +2,7 @@
 layout: page
 title: "Innovación comunitaria y las economías de paz con enfoque territorial"
 excerpt: ""
-author: "Ana Prada"
+author: "Ana Prada Paez"
 author_url: https://www.3colibris.com
 author_twitter: https://twitter.com/3colibris
 email: "anapradap@gmail.com"
@@ -10,7 +10,7 @@ email: "anapradap@gmail.com"
 
 ### Ana Prada
 
-[<i class="fas fa-home"></i> www.3colibris.com](https://www.3colibris.com)
+# [<i class="fas fa-home"></i> www.3colibris.com](https://www.3colibris.com)
 
 En esta ocasión comparto sentipensares que devienen de viajes, conversaciones y cosechas compartidas en chagras y milpas de un mismo suelo latinoamericano, descubriendo puntos de encuentro entre la innovación comunitaria y la transformación de conflictos, como dos puertas de entrada complementarias para dinamizar alternativas de construcción de economías de paz a nivel territorial, que permitan a personas y comunidades acercarse a su propia noción de Vida Querida.
 
@@ -34,3 +34,7 @@ Ecobufalo Campesino es un proceso comunitario que lleva más de 20 años apostá
 En su trayectoria, se ha consolidado como un proceso autogestionado con un proyecto económico y político propio que defiende el arraigo por el territorio pese a la persistencia del conflicto armado. Ecobúfalo Campesino se ha logrado sostener en el tiempo por sus capacidades organizativas de tejer saberes locales y externos y de instalar mecanismos participativos de toma de decisiones efectivos para resolver problemas cotidianos en cada eslabón del encadenamiento productivo de alimentos cárnicos y lácteos.
 
 A manera de cierre, los espacios como el Encuentro Virtual de Laboratorios Rurales en Iberoamérica son fundamentales para compartir sentipensares auténticos y genuinos desde distintas latitudes del mundo, dinamizando la co-creación de métodos frescos y pragmáticos que promueven la construcción de redes y la puesta en marcha de acciones trasgresoras y colaborativas para resolver problemas reales desde la voz de sus protagonistas.
+
+Bogotá, Colombia.
+
+Septiembre de 2021
