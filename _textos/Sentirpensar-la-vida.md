@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "Sentirpensar la vida vivible desde las ruralidades de Abya Yala"
-excerpt: "Colectivo Etinerâncias
-etinerancias@gmail.com
-https://etinerancias.com.br/"
+excerpt: "Colectivo Etinerâncias"
 ---
 
 **Colectivo Etinerâncias**
