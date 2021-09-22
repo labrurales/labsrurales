@@ -15,8 +15,15 @@ permalink: /textos/
         <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
     </header>
     <p>
-        {{ post.excerpt | strip_html | truncatewords: 50 }}
+        {% if post.author_url %}
+            <a href="{{post.author_url}}" target="_blank"><i class="fas fa-home"></i></a>
+        {% endif %}
+        {% if post.author_twitter %}
+            <a href="{{post.author_twitter}}" target="_blank"><i class="fab fa-twitter"></i></a>
+        {% endif %}
+    {{post.author}}
     </p>
+    <p>{{ post.excerpt | strip_html | truncatewords: 10 }}</p>
 </article>
 {% endfor %}
 </div>
