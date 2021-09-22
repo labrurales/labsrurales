@@ -3299,6 +3299,11 @@ section.carousel {
     margin-bottom: 2em;
   }
 }
+@media screen and (max-width:1280px){
+  #header::before{
+    height: 25%;
+  }
+}
 @media screen and (max-width: 480px) {
   #header header > p {
     width: 100%;
