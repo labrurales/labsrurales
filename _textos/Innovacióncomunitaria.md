@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "Innovación comunitaria y las economías de paz con enfoque territorial"
-excerpt: " Ana Prada
-anapradap@gmail.com 
-www.3colibris.com"
+excerpt: " Ana Prada anapradap@gmail.com www.3colibris.com"
 ---
 
 **Ana Prada**
