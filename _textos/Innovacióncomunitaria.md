@@ -35,5 +35,6 @@ En su trayectoria, se ha consolidado como un proceso autogestionado con un proye
 A manera de cierre, los espacios como el Encuentro Virtual de Laboratorios Rurales en Iberoamérica son fundamentales para compartir sentipensares auténticos y genuinos desde distintas latitudes del mundo, dinamizando la co-creación de métodos frescos y pragmáticos que promueven la construcción de redes y la puesta en marcha de acciones trasgresoras y colaborativas para resolver problemas reales desde la voz de sus protagonistas. 
 
 
-Bogotá, Colombia.
+Bogotá, Colombia. 
+
 Septiembre de 2021
