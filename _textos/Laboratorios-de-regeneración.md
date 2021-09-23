@@ -6,7 +6,7 @@ author_url: https://silo.org.br/
 author_email: cinthia.mendonca@silo.org.br
 ---
 
-### Colectivo Etinerâncias
+### Cinthia Mendonça
 
 [<i class="fas fa-home"></i>](https://silo.org.br/) [<i class="far fa-envelope"></i>](mailto:cinthia.mendonca@silo.org.br)
 
@@ -16,11 +16,9 @@ Desde el violento marco civilizatorio colonial que formó los países latinoamer
 
 Me interesan los espacios rurales que presentan algunos aspectos que se establecen precisamente contra la lógica del consumo y la propiedad convencionales, cuando de alguna manera tensan los límites de los dominios territoriales y naturalmente demandan una aproximación con el conocimiento que se ha dejado de lado por la practicidad, vida dedicada al consumo.
 
-Laboratorios de regeneración
+#### Laboratorios de regeneración
 
-En la latitud rural establecida en el contexto actual, hay lugares donde no hay culpa ni miedo a la catástrofe. Hay consecuencias, un sentido de responsabilidad y acciones, al mismo tiempo, en una escala global y comunitaria. Esta posible respuesta, a la que llamo plasticidad, funciona a partir de una especie de simbiosis que se desarrolla y da lugar a los procesos que la preceden. La simbiosis trae consigo la conciencia de que el planeta es mucho más que un proveedor de recursos, por tanto, esta latitud rural está constituida por la simultaneidad, por la convivencia de todo lo que existe. Es lo que te
-
-permite sentir las irregularidades del suelo y, finalmente, “poner el pie en el barro”.
+En la latitud rural establecida en el contexto actual, hay lugares donde no hay culpa ni miedo a la catástrofe. Hay consecuencias, un sentido de responsabilidad y acciones, al mismo tiempo, en una escala global y comunitaria. Esta posible respuesta, a la que llamo plasticidad, funciona a partir de una especie de simbiosis que se desarrolla y da lugar a los procesos que la preceden. La simbiosis trae consigo la conciencia de que el planeta es mucho más que un proveedor de recursos, por tanto, esta latitud rural está constituida por la simultaneidad, por la convivencia de todo lo que existe. Es lo que te permite sentir las irregularidades del suelo y, finalmente, “poner el pie en el barro”.
 
 Creo en la importancia de difundir la ética del modelo sofisticado de sistemas agroforestales y prácticas de laboratorio impulsadas por el trabajo colaborativo y el uso de metodologías de enseñanza radicalmente transdisciplinarias. Estas acciones terminan por reunir a científicos, artistas y población rural o periférica, estudiantes o profesionales de diferentes áreas comprometidos con una determinada producción estética o en producir tecnologías para resolver problemas comunes a un determinado grupo de personas.
 
@@ -28,6 +26,6 @@ Así, están surgiendo dispositivos que promueven el movimiento de personas entr
 
 Y dadas las circunstancias que La crisis climática nos trae, tal vez sea posible ver en ese mundo rural, una tecnosfera muy particular dotada de magia que incluye la agencia de los diversos elementos que componen un enorme sistema sintrópico regenerativo, una verdadera máquina para hacer vida cuando gran parte de la intervención humana en el medio ambiente parece conducir a la muerte.
 
-Serra da Mantiqueira, RJ, Brasil
+_Serra da Mantiqueira, RJ, Brasil_
 
-Septiembre de 2021
+_Septiembre de 2021_
