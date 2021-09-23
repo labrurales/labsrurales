@@ -21,6 +21,6 @@ Es así como siglos de avances científicos, sociales y políticos no han lograd
 
 Es así como se hace urgente y primordial, estudiar la(s) ruralidad(es) del mundo, desde una óptica realista, participativa, colectiva y orgánica que permita comprender las estrechas y complejas relaciones del ser humano con la naturaleza y de la naturaleza en sí misma como constituyente primario de la sociedad humana y su pensamiento, la mística que interviene en este proceso constructivo y los impactos que generan las relaciones de poder entre las distintas clases sociales al interior de la naturaleza, vista como un todo social que lucha cooperativamente por la vida y la supervivencia.
 
-Molagavita, Santander - Colombia.
+_Molagavita, Santander - Colombia._
 
-Septiembre de 2021
+_Septiembre de 2021_
