@@ -35,6 +35,7 @@ Queda aquí el reto futuro de fomentar a la vez que salvaguardar los sueños y a
 
 Seguimos en el camino, generando tecnologías sociales y luchas colectivas desde la humildad, la sinceridad, el amor y la construcción “desde abajo”.	
 
+
 Santos de Maimona, Extremadura.
 
 Septiembre de 2021
