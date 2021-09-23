@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Futuros extitucionales desde la ruralidad"
