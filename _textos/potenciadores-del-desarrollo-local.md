@@ -12,7 +12,7 @@ author_email: lmpalaciosc@unal.edu.co
 
 ### Laura Palacios
 
-[<i class="far fa-envelope"></i>](lmpalaciosc@unal.edu.co)
+[<i class="far fa-envelope"></i>](mailto:lmpalaciosc@unal.edu.co)
 
 Si bien la diversidad cultural es uno de los encantos de las ciudades, esa misma variedad y velocidad con que nueva información ingresa, penetra y permea la sociedad, hace que ese contenido se vuelva fugaz, pasajero, efímero. El campo, por el contrario, tiene como encanto que sus activos, como lo son sus orígenes, dinámicas, tradiciones, prácticas y saberes; son sólidos y duraderos, y esto ha permitido que se forjen unas narrativas únicas sobre las realidades cotidianas que facilitan esas relaciones colaborativas entre la comunidad. 
 
