@@ -26,6 +26,6 @@ Del mismo modo, el laboratorio rural puede ser concebido como un escenario, un a
 
 De esta forma, se estará dando un paso para romper las brechas de pobreza, desempleo y exclusión social de la población rural, ayudando no solo a mejorar sus condiciones de vida, sino también, teniendo la posibilidad de impactar y modificar positivamente la vida de habitantes de otros territorios, principalmente rurales, pero también urbanos, para que estas soluciones puedan ser adoptadas directamente o entren en proceso de apropiación para ser adaptadas.
 
-Nocaima, Cundinamarca – Colombia.
+_Nocaima, Cundinamarca – Colombia._
 
-Septiembre de 2021
+_Septiembre de 2021_
