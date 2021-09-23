@@ -20,7 +20,7 @@ Es aquí donde adquieren especial relevancia las “extituciones rurales”, pro
  
 Son estas extituciones de defensa o reapropiación de los espacios y recursos comunes las que pueden construir poco a poco otras formas de vida desde abajo, transformando las visiones del mundo dominantes. Procesos comunitarios constituidos desde la ruralidad por lazos de reciprocidad entre las personas y el territorio, que conviven de forma simbiótica con la naturaleza e invitan a una vida inspirada en la responsabilidad colectiva, la igualdad y la conservación del ecosistema. Comunidades que aúnan la cosmovisión del buen vivir y la defensa y regeneración de los bienes comunes.
 
-Hacia una red descentralizada de LabsRurales
+#### Hacia una red descentralizada de LabsRurales
 
 ¿Cómo construir una red descentralizada de LabsRurales? La respuesta está en el hacer, “hacerlo posible” es la única vía para resolver esta cuestión, una red se hace a sí misma desde los bordes, sin núcleo definido.
 
@@ -35,6 +35,6 @@ Queda aquí el reto futuro de fomentar a la vez que salvaguardar los sueños y a
 Seguimos en el camino, generando tecnologías sociales y luchas colectivas desde la humildad, la sinceridad, el amor y la construcción “desde abajo”.	
 
 
-Santos de Maimona, Extremadura.
+_Santos de Maimona, Extremadura._
 
-Septiembre de 2021
+_Septiembre de 2021_
