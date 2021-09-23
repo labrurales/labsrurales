@@ -6,11 +6,11 @@ author_url: http://www.portaldelsur.org/
 author_email: diprusx@gmail.com
 ---
 
-### Colectivo Etinerâncias
+### David de Vries
 
 [<i class="fas fa-home"></i>](http://www.portaldelsur.org/) [<i class="far fa-envelope"></i>](mailto:diprusx@gmail.com)
 
-Proyecto Portal del Sur Latinoamérica
+#### Proyecto Portal del Sur Latinoamérica
 
 Al dialogar, registrar y trabajar con familiares, amigos y personas que han participado en algún proyecto social/comunitario/sustentabilidad, comenzamos con los siguientes cuestionamientos:
 
@@ -41,6 +41,6 @@ El aceleramiento de las tecnologías como fuente de información y expresión al
 Para nuestro equipo de trabajo, lo más importante es generar soluciones creativas donde los niños y jóvenes reinterpreten la realidad de su contexto, y propendan a un desarrollo regenerativo de su entorno, respetando la identidad de su territorio y mucho más importante su identidad personal. El proceso educativo de nuestros niños/as en el campo debe tener un pronto viraje hacia una ruta independiente de aprendizaje para ser eficientes en la planeación y supervivencia de los pueblos.
 
 
-Genoy, Nariño – Colombia.
+_Genoy, Nariño – Colombia._
 
-Septiembre de 2021
+_Septiembre de 2021_
