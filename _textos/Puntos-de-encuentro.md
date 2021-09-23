@@ -1,4 +1,4 @@
---
+---
 layout: page
 title: "Puntos de encuentro para aprender haciendo a través de la creatividad tecnológica"
 author: "Equipo PenyaLab"
@@ -37,6 +37,6 @@ PenyaLab: Laboratorio de creatividad tecnológica en el mundo rural,  es uno de 
 Los laboratorios rurales como PenyaLab, pueden intentar buscar respuestas de manera colectiva a todas las preguntas expuestas anteriormente, y a muchas otras que se planteen en cada contexto concreto, facilitando el desarrollo de proyectos de creación tecnológica que transformen el entorno más cercano y contribuyan a su desarrollo, a través de los cuales la población se capacita haciendo y creando en el uso de las tecnologías a las que puede sacar provecho.
 
 
-Vistabella del Maestrar, Comunidad de Valencia.
+_Vistabella del Maestrar, Comunidad de Valencia._
 
-Septiembre de 2021
+_Septiembre de 2021_
