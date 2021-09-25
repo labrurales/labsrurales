@@ -36,7 +36,7 @@ De esta forma, los resultados de la residencia en MediaLab Prado se orientaron e
 
 Las dinámicas de creación rural transitan caminos llenos de barro, tierra y buenas hiervas, los cuales están generando espacios a la intemperieiv  con sus limitaciones históricas y potencialidades emergentes. 
 
-_Bogotá, Colombia. _
+_Bogotá, Colombia_
 
 _Septiembre de 2021_
 
