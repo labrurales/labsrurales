@@ -32,8 +32,8 @@ El laboratorio duró una semana, desarrollamos actividades de co-diseño y anál
 </div>
 <br>
 
+#### Ecobúfalo Campesino innovación comunitaria liderada por campesinxs y firmantes de paz
 
-Ecobúfalo Campesino innovación comunitaria liderada por campesinxs y firmantes de paz
 Ecobufalo Campesino es un proceso comunitario que lleva más de 20 años apostándole a la construcción de paz y la agroecología en la región del Magdalena Medio. Es un proceso de base liderado por campesinxs vinculadxs a la Asociación Campesina del Valle del Río Cimitarra y desde 2017 por firmantes de paz reunidos bajo la forma asociativa COOMULDEM.
 
 En su trayectoria, se ha consolidado como un proceso autogestionado con un proyecto económico y político propio que defiende el arraigo por el territorio pese a la persistencia del conflicto armado. Ecobúfalo Campesino se ha logrado sostener en el tiempo por sus capacidades organizativas de tejer saberes locales y externos y de instalar mecanismos participativos de toma de decisiones efectivos para resolver problemas cotidianos en cada eslabón del encadenamiento productivo de alimentos cárnicos y lácteos.
