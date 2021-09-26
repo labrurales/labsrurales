@@ -28,7 +28,7 @@ Propuse a CIOEC desarrollar un laboratorio de economías de paz con enfoque terr
 El laboratorio duró una semana, desarrollamos actividades de co-diseño y análisis de preferencias de lxs comensales, también, se desarrolló un intercambio de experiencias entre CIOEC y Tierra Libre en Tibacuy, Cundinamarca. Tierra Libre compartió su experiencia resolviendo problemas logísticos y comerciales para vender sus productos en esquemas de circuitos cortos de comercialización en su punto de venta propio de la EcoTienda La Huerta, ubicada en Fusagasugá. Por su parte, CIOEC compartió sus lecciones aprendidas y retos comercializando alimentos frescos y transformados en su punto de venta El Kampesino, localizada en Cochabamba. La escucha activa por parte de lxs participantes, el diálogo y el generoso compartir de aprendizajes hicieron de este un escenario de creación de conocimiento y redes para desarrollar mejoras en la comercialización de CIOEC.
 
 <div class="row aln-center">
-    <img src="{{site.baseurl}}/images/Txt Ana Prada - 1.jpg">
+    <img src="{{site.baseurl}}/images/Txt Ana Prada - 13.jpg">
 </div>
 <br>
 
