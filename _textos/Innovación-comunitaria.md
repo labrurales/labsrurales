@@ -32,6 +32,10 @@ El laboratorio duró una semana, desarrollamos actividades de co-diseño y anál
 </div>
 <br>
 
+![Intercambio de experiencias entre CIOEC y Tierra Libre](/images/Txt Ana Prada - 1.jpg)
+Format: ![Intercambio de experiencias entre CIOEC y Tierra Libre](https://tierralibre.com/)
+
+
 Ecobúfalo Campesino innovación comunitaria liderada por campesinxs y firmantes de paz
 Ecobufalo Campesino es un proceso comunitario que lleva más de 20 años apostándole a la construcción de paz y la agroecología en la región del Magdalena Medio. Es un proceso de base liderado por campesinxs vinculadxs a la Asociación Campesina del Valle del Río Cimitarra y desde 2017 por firmantes de paz reunidos bajo la forma asociativa COOMULDEM.
 
