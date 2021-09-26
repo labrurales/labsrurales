@@ -26,6 +26,14 @@ Felipe Herreño            (Impresión gráfica)                - elhonorablecar
 
 Amelia Rose Hind          (Correccin de estilo y traducción) - millie.hind@btinternet.com  
 
+
+_Tutores_:
+
+Franco Llobera 
+
+Mónica Cuende 
+
+
 <div class="row aln-center">
     <img src="{{site.baseurl}}/images/Img LabsRuralesLabLabLab.jpg">
 </div>
