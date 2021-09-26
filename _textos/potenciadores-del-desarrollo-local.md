@@ -20,7 +20,17 @@ La ruralidad tiene que dejar esa tradición de ser un sector que consume solucio
 
 Por otro lado, en las zonas rurales se ha vuelto más común encontrar espacios públicos como bibliotecas, ludotecas, casas de la cultura y otros tipos de espacios comunitarios, que unidos a los tradicionalmente existentes, como las escuelas y salones de juntas de acción comunal, que aunque buscan promover y facilitar la participación de los habitantes en diversos procesos de intercambio de conocimiento, no son aceptados en su totalidad por los campesinos y/o las diversas comunidades rurales, ya que estos son concebidos para fortalecer una educación tradicional centralizada e impuesta desde las ciudades que desconoce las percepciones, sentires, experiencias, necesidades, potencialidades; así como la precariedad de las condiciones educativas en el entorno rural. 
 
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Txt LabRural Nocaima 1.jpg">
+</div>
+<br>
+
 En ese sentido, el laboratorio rural emerge como un espacio propicio donde en conjunto con la academia y la comunidad campesina, se busca generar procesos de apropiación social del conocimiento, particularmente alrededor de la exploración, experimentación y prototipado de diversas soluciones a problemas o potencialidades del territorio identificadas por sus mismos habitantes, por medio del “aprender-haciendo” y del uso de otros modelos de enseñanza - aprendizaje adaptables a los contextos, procesos y dinámicas propias de las comunidades campesinas, permitiendo que hombres, mujeres y jóvenes del sector rural tengan capacidad para acceder y beneficiarse de la ciencia, la tecnología y la innovación; así estaremos educando una sociedad rural más empoderada hacia la autogestión con la capacidad de explorar opciones de desarrollo local.
+
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Txt LabRural Nocaima 2.jpg">
+</div>
+<br>
 
 Del mismo modo, el laboratorio rural puede ser concebido como un escenario, un ambiente y un medio no físico, donde el grupo facilitador (academia) haciendo uso de las herramientas, tanto físicas y materiales requeridas para los procesos de co-creación; como las herramientas conceptuales, metodológicas y pedagógicas apropiadas, pueden potencian las habilidades socio afectivas de la comunidad participante, permitiéndoles tener un rol protagónico en todas las fases de desarrollo del laboratorio, comenzando con el diagnóstico, que es la etapa clave donde se establecen las necesidades y sus posibles soluciones, las cuales serán creadas y construidas a muchas manos, de forma creativa, abierta y libre y reconociendo las experiencias, capacidades y habilidades vitales de todos los y las que participan. 
 
