@@ -28,7 +28,7 @@ Por otro lado, en las zonas rurales se ha vuelto más común encontrar espacios 
 En ese sentido, el laboratorio rural emerge como un espacio propicio donde en conjunto con la academia y la comunidad campesina, se busca generar procesos de apropiación social del conocimiento, particularmente alrededor de la exploración, experimentación y prototipado de diversas soluciones a problemas o potencialidades del territorio identificadas por sus mismos habitantes, por medio del “aprender-haciendo” y del uso de otros modelos de enseñanza - aprendizaje adaptables a los contextos, procesos y dinámicas propias de las comunidades campesinas, permitiendo que hombres, mujeres y jóvenes del sector rural tengan capacidad para acceder y beneficiarse de la ciencia, la tecnología y la innovación; así estaremos educando una sociedad rural más empoderada hacia la autogestión con la capacidad de explorar opciones de desarrollo local.
 
 <div class="row aln-center">
-    <img src="{{site.baseurl}}/images/Txt LabRural Nocaima 2.jpg">
+    <img src="{{site.baseurl}}/images/Txt LabRural Nocaima 2.jpeg">
 </div>
 <br>
 
