@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "La(s) ruralidad(es) en datos"
-permalink: /datos/
-lang: es
+layout: page_en
+title: "The rurality in data"
+permalink: /en/data/
+lang: en
 ---
 
 ## Las(s) Ruraldad(es) hoy

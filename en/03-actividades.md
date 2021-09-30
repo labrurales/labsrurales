@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Actividades"
-permalink: /actividades/
-lang: es
+layout: page_en
+title: "Activities"
+permalink: /en/activities/
+lang: en
 ---
 
 <div class="row">

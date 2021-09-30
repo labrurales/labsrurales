@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Postales Sonoras rurales"
-permalink: /paisajes-sonoros/
-lang: es
+layout: page_en
+title: "Soundscapes Postcards"
+permalink: /en/soundscapes/
+lang: en
 ---
 
 ### Postales sonoras rurales

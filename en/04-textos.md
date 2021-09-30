@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Textos"
-permalink: /textos/
-lang: es
+layout: page_en
+title: "Texts"
+permalink: /en/texts/
+lang: en
 ---
 
 <div class="row">
