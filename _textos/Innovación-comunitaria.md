@@ -27,10 +27,21 @@ Propuse a CIOEC desarrollar un laboratorio de economías de paz con enfoque terr
 
 El laboratorio duró una semana, desarrollamos actividades de co-diseño y análisis de preferencias de lxs comensales, también, se desarrolló un intercambio de experiencias entre CIOEC y Tierra Libre en Tibacuy, Cundinamarca. Tierra Libre compartió su experiencia resolviendo problemas logísticos y comerciales para vender sus productos en esquemas de circuitos cortos de comercialización en su punto de venta propio de la EcoTienda La Huerta, ubicada en Fusagasugá. Por su parte, CIOEC compartió sus lecciones aprendidas y retos comercializando alimentos frescos y transformados en su punto de venta El Kampesino, localizada en Cochabamba. La escucha activa por parte de lxs participantes, el diálogo y el generoso compartir de aprendizajes hicieron de este un escenario de creación de conocimiento y redes para desarrollar mejoras en la comercialización de CIOEC.
 
-Ecobúfalo Campesino innovación comunitaria liderada por campesinxs y firmantes de paz
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Txt Ana Prada - 13.jpg">
+</div>
+<br>
+
+#### Ecobúfalo Campesino innovación comunitaria liderada por campesinxs y firmantes de paz
+
 Ecobufalo Campesino es un proceso comunitario que lleva más de 20 años apostándole a la construcción de paz y la agroecología en la región del Magdalena Medio. Es un proceso de base liderado por campesinxs vinculadxs a la Asociación Campesina del Valle del Río Cimitarra y desde 2017 por firmantes de paz reunidos bajo la forma asociativa COOMULDEM.
 
 En su trayectoria, se ha consolidado como un proceso autogestionado con un proyecto económico y político propio que defiende el arraigo por el territorio pese a la persistencia del conflicto armado. Ecobúfalo Campesino se ha logrado sostener en el tiempo por sus capacidades organizativas de tejer saberes locales y externos y de instalar mecanismos participativos de toma de decisiones efectivos para resolver problemas cotidianos en cada eslabón del encadenamiento productivo de alimentos cárnicos y lácteos.
+
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Txt Ana Prada - 2.jpg">
+</div>
+<br>
 
 A manera de cierre, los espacios como el Encuentro Virtual de Laboratorios Rurales en Iberoamérica son fundamentales para compartir sentipensares auténticos y genuinos desde distintas latitudes del mundo, dinamizando la co-creación de métodos frescos y pragmáticos que promueven la construcción de redes y la puesta en marcha de acciones trasgresoras y colaborativas para resolver problemas reales desde la voz de sus protagonistas.
 

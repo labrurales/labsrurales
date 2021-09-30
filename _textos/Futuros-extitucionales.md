@@ -17,6 +17,11 @@ Desde hace unos años son muchas las políticas públicas -al menos en Europa- d
 Es aquí donde adquieren especial relevancia las “extituciones rurales”, procesos comunitarios de largo recorrido del ámbito social, ecológico, cultural y creativo que han sabido posicionarse desde la ruralidad como medio para catalizar alternativas sistémicas -en red y sin forma preestablecida-, que benefician a la sociedad en su conjunto mediante lo abierto, lo distribuido, lo cooperativo y lo no formal/informal.
 
 “Extituciones y redes no tienen ni «dentro» ni «fuera», son sólo límite, elementos que pueden conectarse o no. Una extitución es una superficie imposible de geometrizar, más bien es una amalgama de conexiones y asociaciones cambiantes. Su materia son las posiciones, los vecindarios, las proximidades, las distancias, adherencias o acumulaciones de relaciones” (Serres, 1994).
+
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Txt lfdtvd 1.jpg">
+</div>
+<br>
  
 Son estas extituciones de defensa o reapropiación de los espacios y recursos comunes las que pueden construir poco a poco otras formas de vida desde abajo, transformando las visiones del mundo dominantes. Procesos comunitarios constituidos desde la ruralidad por lazos de reciprocidad entre las personas y el territorio, que conviven de forma simbiótica con la naturaleza e invitan a una vida inspirada en la responsabilidad colectiva, la igualdad y la conservación del ecosistema. Comunidades que aúnan la cosmovisión del buen vivir y la defensa y regeneración de los bienes comunes.
 

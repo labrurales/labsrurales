@@ -18,6 +18,11 @@ Los Laboratorios Rurales pueden ser puntos de encuentro donde la población pued
 
 En los Laboratorios Rurales, con una metodología del aprender haciendo, la población pone en marcha proyectos individuales o colectivos con la intención de crear algo que necesiten. En estos puntos de encuentro, la población se puede acercar a la tecnología a partir de sus intereses y necesidades concretas. Se puede aprovechar de ella para mejorar su calidad de vida. Y puede mantener una relación activa y creativa ante la tecnología.
 
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Txt PenyaLab 1.jpg">
+</div>
+<br>
+
 Damos especial importancia a los proyectos que nacen desde la población y que son colectivos y comunitarios, que buscan soluciones para la comunidad porque fortalecen a las poblaciones en la autogestión de sus comunidades.
 
 Estos puntos de encuentro en forma de Laboratorios Rurales, también pueden ser un lugar donde debatir y reflexionar sobre las nuevas problemáticas que nos vienen asociadas con las nuevas formas de comunicarnos y, también, sobre cómo luchar ante viejos problemas como el racismo y la homofobia, que toman nuevas formas en el ciberespacio y persisten a través de él.
@@ -29,6 +34,11 @@ Juntos, tendremos que tomar conciencia de qué es la identidad y la huella digit
 La digitalización de la sociedad ha creado los llamados excluidos digitales. No todos podemos comprar dispositivos y líneas de telefonía e Internet, nos vemos obligados a hacer todo tipo de trámites en línea, las operaciones bancarias se hacen a través de bancas electrónicas, etc.
 
 Los laboratorios rurales pueden ser lugares donde se proporcionen oportunidades educativas relacionadas con las tecnologías para hacer más delgada esa brecha digital que excluye.
+
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Txt PenyaLab 2.jpg">
+</div>
+<br>
 
 Rescatamos un concepto que nos introdujo un compañero del proyecto Kara Solar de Ecuador: Colonización Tecnológica. ¿Cómo nos protegemos de las tecnologías que nos imponen a la fuerza y sin preguntarnos?, ¿qué tecnologías nos pueden servir para mejorar nuestra calidad de vida y fortalecer nuestras comunidades?, ¿cómo nos aprovechamos de las tecnologías que nos pueden ser útiles para nuestras comunidades si no sabemos usarlas?.
 
