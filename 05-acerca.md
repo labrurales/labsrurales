@@ -32,7 +32,10 @@ _Tutores_:
 
 Franco Llobera 
 
-<iframe src="https://player.vimeo.com/video/613985280?h=d3839e8d29&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div class="row aln-center">
+   <iframe src="https://player.vimeo.com/video/613985280?h=d3839e8d29&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
 
 
 ### Antecedentes
