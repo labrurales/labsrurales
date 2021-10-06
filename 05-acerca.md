@@ -34,6 +34,9 @@ Franco Llobera
 
 Mónica Cuende 
 
+<iframe src="https://player.vimeo.com/video/613985280?h=d3839e8d29" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/613985280">LABSRURALES - JUANDA REINA ROZO</a> from <a href="https://vimeo.com/felipeottalora">Felipe Ottalora</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 <div class="row aln-center">
     <img src="{{site.baseurl}}/images/Img LabsRuralesLabLabLab.jpg">
