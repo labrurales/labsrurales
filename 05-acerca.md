@@ -32,13 +32,11 @@ _Tutores_:
 
 Franco Llobera 
 
-Mónica Cuende 
-
-
 <div class="row aln-center">
-    <img src="{{site.baseurl}}/images/Img LabsRuralesLabLabLab.jpg">
+   <iframe src="https://player.vimeo.com/video/613985280?h=d3839e8d29&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
+
 
 ### Antecedentes
 
@@ -54,3 +52,8 @@ Mientras, a nivel de proyectos relacionados al ámbito rural que se han prototip
 Esta residencia ha tenido el apoyo financiero de las siguientes organizaciones [Plataforma Bogota](https://www.plataformabogota.org/) y [MediaLab Prado](https://www.medialab-prado.es/).
 
 Así mismo, ha recibido la solidaridad de diversas iniciativas y colectivos tales como [PenyaLab](http://www.penyalab.org/), [Campo Adentro](http://car.inland.org/), [Escuela Itinera](https://www.tierrasagroecologicas.es/itinera/), [Ecoaldea Aterra](https://arterrabizimodu.org/), [La Fabrika de Toda la Vida](https://lfdtv.org/), entre otras. A ellas gracias infinitas.
+
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/Img LabsRuralesLabLabLab.jpg">
+</div>
+<br>
