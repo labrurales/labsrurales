@@ -2658,7 +2658,7 @@ body.homepage.is-preload #header:after {
   margin-bottom: 0;
 }
 section.carousel {
-  background: url("/images/fondo-blanco.jpg");
+  background: url("../../images/fondo-blanco.jpg");
 }
 
 .carousel .forward,
