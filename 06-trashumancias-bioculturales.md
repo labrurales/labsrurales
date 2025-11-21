@@ -19,7 +19,7 @@ Así, manifestamos no subvalorar la ruralidad, en términos culturales, como un 
 
 Algunas herramientas para la gestión cultural en las Ruralidades (un inicio):
 
-[Bibliotecas humanas](https://intef.es/Noticias/guia-lada-como-hacer-una-biblioteca-humana/)
+<strong>[Bibliotecas humanas](https://intef.es/Noticias/guia-lada-como-hacer-una-biblioteca-humana/)<strong>
 Son encuentros entre personas (libros) creados para conocer sus historias de vida. En este caso, se trata de encuentros intergeneracionales en los que se desea conocer la memoria de las personas mayores. 
 
 [Campesinx a campesinx](https://www.sedepachuasteca.org/que-hacemos/campesino-a-campesino/)
