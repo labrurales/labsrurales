@@ -17,6 +17,37 @@ Este fanzine es el resultado de un proceso de diálogo y creación desde Villanu
 
 Así, manifestamos no subvalorar la ruralidad, en términos culturales, como un espacio inofensivo o inerme, un nostálgico objeto de curiosidad e interés, sino como un espacio palpitante, emancipador, experimental, mestizo, crítico, aferrado a su tiempo, ubicuo y transformador en potencia.
 
+Algunas herramientas para la gestión cultural en las Ruralidades (un inicio):
+
+[Bibliotecas humanas](https://intef.es/Noticias/guia-lada-como-hacer-una-biblioteca-humana/)
+Son encuentros entre personas (libros) creados para conocer sus historias de vida. En este caso, se trata de encuentros intergeneracionales en los que se desea conocer la memoria de las personas mayores. 
+
+[Campesinx a campesinx](https://www.sedepachuasteca.org/que-hacemos/campesino-a-campesino/)
+Involucra que campesinxs transmitan conocimientos a pequeños productores de forma sencilla. Este método es efectivo porque los campesinos confían más en otros campesinos y pueden explicar los conceptos de manera más clara que los extensionistas.
+ 
+
+[Barferencias / Concervezatorios](https://laponte.org/10453-2/)
+Es una actividad para la divulgación, la conversación y el acercamiento a otros saberes, llevando a la calle, cafeterias y bares charlas en un formato más informal y acogedor. 
+
+[Redes Mesh](https://colnodo.apc.org/es/tecnologias-libres-para-redes-comunitarias-rurales-aplicacion-libremesh-y-librerouter-3)
+Una red mesh o red mallada es una infraestructura de comunicación en la cual múltiples dispositivos se conectan entre sí de forma inalámbrica con el objetivo de crear una red de cobertura amplia especialmente en la ruralidad.  
+
+[Protocolos bioculturales](https://cuimari.com/blog/f/los-protocolos-comunitarios-bioculturales)
+Son instrumentos para asegurar la participación justa y equitativa en los beneficios que se deriven de la utilización de los conocimientos e innovaciones asociados a los recursos genéticos de la biodiversidad.
+ 
+ 	
+[Apoyo mutuo para el arte y la cultura](https://www.internationaleonline.org/es/contributions/lumbung-practices-to-resist-and-collaborate-through-art/)
+Las prácticas de apoyo mutuo en las ruralidades están basadas en la recripricidad y la colaboración para la reproducción de la vida y el bienestar. Se encuentras conceptos como Lumbung en Asia, como Andecha en Europa o Tequio en Mesoamérica. 
+ 
+[Licencias de gestión del conocimiento de producción de pares (Copyleft)](https://labekka.red/licencia-f2f/)
+Con licencias son libres de compartir la obra (copiarla, distribuirla, ejecutarla, o comunicarla) y de hacer obras derivada bajo las siguientes condiciones Atribución, Compartir igual, y Feminista anticapitalista.
+
+ 	
+[Bitacora(s) de Laboratorios](https://labsbibliotecarios.es/glosario/bitacora/)
+Es un proceso de documentación y registro detallado de los procesos de co-creación en espacios colaborativos. Se puede realizar por cualquier persona y usando diversos medios como escritos, sonoros, gráficos, audiovisuales, entre otros. 
+
+¡Debemos abrazar la diversidad y evitar la homogeneización!	
+
 A continuación se compartirán las postales sonoras realizadas con cinco iniciativas rurales en Asturias. 
 
 {% include paisajes2.html %}
