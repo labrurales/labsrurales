@@ -13,7 +13,7 @@ Juan David Reina-Rozo - juandax@riseup.net
 
 _Colaboradorxs_:
 
-Alejandra Cala (Ilustración y diseño web) - acalav@unal.edu.co
+Alejandra Cala (Ilustración, diseño web y Diseño fanzine 2) - acalav@unal.edu.co
 
 Diego Ramírez (Desarrollo web e investigación) - dramirezaragon@gmail.com
 
@@ -49,7 +49,7 @@ El prototipo de plataforma web para visibilizar acciones y procesos de creación
 
 Mientras, a nivel de proyectos relacionados al ámbito rural que se han prototipado en el MediaLab Prado, se hallan los siguientes: [Los nuevos habitantes de la España Vacía](https://nuevoshabitantesespanavacia.com/); [Los colonos de la 'España verde' de Franco](https://medialab-prado.github.io/poblados-colonizacion-colonias-penitenciarias/index.html), y [Soy de Temporada](https://soydetemporada.es/). Los cuales problematizan este ámbito en la España -vacia, vaciada y abandonada- desde la visualización de datos, investigación colaborativa y el desarrollo de plataformas web.
 
-Esta residencia ha tenido el apoyo financiero de las siguientes organizaciones [Plataforma Bogota](https://www.plataformabogota.org/) y [MediaLab Prado](https://www.medialab-prado.es/).
+Estas residencias han tenido el apoyo financiero de las siguientes organizaciones [Plataforma Bogota](https://www.plataformabogota.org/), y [Secretaría de Cultura, Recreación y Deporte](https://secretariageneral.gov.co), además del apoyo operativo de [MediaLab Prado](https://www.medialab-prado.es/) y el [Centro de Investigación La Ponte](https://www.laponte.org/)).
 
 Así mismo, ha recibido la solidaridad de diversas iniciativas y colectivos tales como [PenyaLab](http://www.penyalab.org/), [Campo Adentro](http://car.inland.org/), [Escuela Itinera](https://www.tierrasagroecologicas.es/itinera/), [Ecoaldea Aterra](https://arterrabizimodu.org/), [La Fabrika de Toda la Vida](https://lfdtv.org/), entre otras. A ellas gracias infinitas.
 
