@@ -33,24 +33,21 @@ Una red mesh o red mallada es una infraestructura de comunicación en la cual m�
 
 [Protocolos bioculturales](https://cuimari.com/blog/f/los-protocolos-comunitarios-bioculturales)
 Son instrumentos para asegurar la participación justa y equitativa en los beneficios que se deriven de la utilización de los conocimientos e innovaciones asociados a los recursos genéticos de la biodiversidad.
- 
- 	
+  	
 [Apoyo mutuo para el arte y la cultura](https://www.internationaleonline.org/es/contributions/lumbung-practices-to-resist-and-collaborate-through-art/)
 Las prácticas de apoyo mutuo en las ruralidades están basadas en la recripricidad y la colaboración para la reproducción de la vida y el bienestar. Se encuentras conceptos como Lumbung en Asia, como Andecha en Europa o Tequio en Mesoamérica. 
  
 [Licencias de gestión del conocimiento de producción de pares (Copyleft)](https://labekka.red/licencia-f2f/)
 Con licencias son libres de compartir la obra (copiarla, distribuirla, ejecutarla, o comunicarla) y de hacer obras derivada bajo las siguientes condiciones Atribución, Compartir igual, y Feminista anticapitalista.
-
  	
 [Bitacora(s) de Laboratorios](https://labsbibliotecarios.es/glosario/bitacora/)
 Es un proceso de documentación y registro detallado de los procesos de co-creación en espacios colaborativos. Se puede realizar por cualquier persona y usando diversos medios como escritos, sonoros, gráficos, audiovisuales, entre otros. 
 
-<strong>¡Debemos abrazar la diversidad y evitar la homogeneización!<strong>
+### ¡Debemos abrazar la diversidad y evitar la homogeneización!
 
 A continuación se comparten las postales sonoras realizadas con cinco iniciativas rurales en Asturias. 
 
 {% include paisajes2.html %}
 
-Agradecimientos
-A Carmen Pérez Maestro; Sofía González Sandoval; María José Tudela Castro; Eva Martínez y Jesús Fernández Fernández de [La Ponte](https://laponte.org) por hacer de la residencia un espacio de cuidado y conocimientos para generar nuevas formas de pensar y hacer en las ruralidades. 
+Agradecimientos a Carmen Pérez Maestro; Sofía González Sandoval; María José Tudela Castro; Eva Martínez y Jesús Fernández Fernández de [La Ponte](https://laponte.org) por hacer de la residencia un espacio de cuidado y conocimientos para generar nuevas formas de pensar y hacer en las ruralidades. 
 Y a todas las organizaciones que compartieron su tiempo, conocimientos y saberes para tejer en conjunto estas postales sonoras: La escuela de Teitau; Azabache Jurásico; La Benéfica de Piloña e Ixuxu.
