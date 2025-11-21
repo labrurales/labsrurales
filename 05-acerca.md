@@ -5,7 +5,8 @@ permalink: /acerca/
 lang: es
 ---
 
-La residencia LabsRurales como emergencia para los sistemas educativos de la ruralidad llevada a cabo en el mes de Julio de 2021 en MediaLab Prado se concibe como un proyecto andariego por la(s) ruralidad(es) de España y Colombia -en primer lugar- y por algunas otras en el tiempo por venir.
+Re-pensando y re-creando la noción de los Laboratorios Rurales (LabsRurales). 
+La residencia LabsRurales como emergencia para los sistemas educativos de la ruralidad llevada a cabo en el mes de Julio de 2021 en MediaLab Prado y la Residencia para la gestión cultural: Conexión Iberoamericana llevada a cabo en Octubre de 2025 se conciben como proyectos trashumantes por la(s) ruralidad(es) de Iberoamérica -en primer lugar- y por algunas otras en el tiempo por venir.
 
 _Coordinación_:
 
