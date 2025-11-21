@@ -47,7 +47,7 @@ Es un proceso de documentación y registro detallado de los procesos de co-creac
 
 <strong>¡Debemos abrazar la diversidad y evitar la homogeneización!<strong>
 
-A continuación se compartirán las postales sonoras realizadas con cinco iniciativas rurales en Asturias. 
+A continuación se comparten las postales sonoras realizadas con cinco iniciativas rurales en Asturias. 
 
 {% include paisajes2.html %}
 
