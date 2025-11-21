@@ -19,7 +19,7 @@ Así, manifestamos no subvalorar la ruralidad, en términos culturales, como un 
 
 A continuación se compartirán las postales sonoras realizadas con cinco iniciativas rurales en Asturias. 
 
-{% include paisajes.html %}
+{% include paisajes2.html %}
 
 Agradecimientos
 A Carmen Pérez Maestro; Sofía González Sandoval; María José Tudela Castro; Eva Martínez y Jesús Fernández Fernández de [La Ponte](https://laponte.org) por hacer de la residencia un espacio de cuidado y conocimientos para generar nuevas formas de pensar y hacer en las ruralidades. 
