@@ -24,7 +24,6 @@ Son encuentros entre personas (libros) creados para conocer sus historias de vid
 
 [Campesinx a campesinx](https://www.sedepachuasteca.org/que-hacemos/campesino-a-campesino/)
 Involucra que campesinxs transmitan conocimientos a pequeños productores de forma sencilla. Este método es efectivo porque los campesinos confían más en otros campesinos y pueden explicar los conceptos de manera más clara que los extensionistas.
- 
 
 [Barferencias / Concervezatorios](https://laponte.org/10453-2/)
 Es una actividad para la divulgación, la conversación y el acercamiento a otros saberes, llevando a la calle, cafeterias y bares charlas en un formato más informal y acogedor. 
@@ -46,7 +45,7 @@ Con licencias son libres de compartir la obra (copiarla, distribuirla, ejecutarl
 [Bitacora(s) de Laboratorios](https://labsbibliotecarios.es/glosario/bitacora/)
 Es un proceso de documentación y registro detallado de los procesos de co-creación en espacios colaborativos. Se puede realizar por cualquier persona y usando diversos medios como escritos, sonoros, gráficos, audiovisuales, entre otros. 
 
-¡Debemos abrazar la diversidad y evitar la homogeneización!	
+<strong>¡Debemos abrazar la diversidad y evitar la homogeneización!<strong>
 
 A continuación se compartirán las postales sonoras realizadas con cinco iniciativas rurales en Asturias. 
 
