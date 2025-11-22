@@ -58,5 +58,12 @@ A continuación se comparten las postales sonoras realizadas con cinco iniciativ
 
 {% include paisajes2.html %}
 
+### Fanzine
+
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/A. Imagen Fanzine.jpg">
+</div>
+<br>
+
 Agradecimientos a Carmen Pérez Maestro; Sofía González Sandoval; María José Tudela Castro; Eva Martínez y Jesús Fernández Fernández de [La Ponte](https://laponte.org) por hacer de la residencia un espacio de cuidado y conocimientos para generar nuevas formas de pensar y hacer en las ruralidades. 
 Y a todas las organizaciones que compartieron su tiempo, conocimientos y saberes para tejer en conjunto estas postales sonoras: La escuela de Teitau; Azabache Jurásico; La Benéfica de Piloña e Ixuxu.
