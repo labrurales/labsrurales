@@ -45,10 +45,14 @@ Es un proceso de documentación y registro detallado de los procesos de co-creac
 
 ### ¡Debemos abrazar la diversidad y evitar la homogeneización!
 
+<div class="wrapper style2">
+	<article id="main" class="container special">
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen
 					src="//umap.openstreetmap.fr/es/map/labsrurales-en-iberoamerica_638564?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 				<p><a href="//umap.openstreetmap.fr/es/map/labsrurales-en-iberoamerica_638564">Ver pantalla completa</a>
 				</p>
+	</article>
+</div>
 
 A continuación se comparten las postales sonoras realizadas con cinco iniciativas rurales en Asturias. 
 
