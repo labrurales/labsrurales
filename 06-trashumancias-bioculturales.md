@@ -60,6 +60,8 @@ A continuación se comparten las postales sonoras realizadas con cinco iniciativ
 
 ### Fanzine
 
+El Fanzine es un dispositivo análogo que alberga la memoria conceptual del proyecto, la idea de los Laboratorios Bioculturales y una caja de herramientas preliminar.  
+
 <div class="row aln-center">
     <img src="{{site.baseurl}}/images/A. Imagen Fanzine.jpg">
 </div>
