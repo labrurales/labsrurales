@@ -62,6 +62,8 @@ A continuación se comparten las postales sonoras realizadas con cinco iniciativ
 
 El Fanzine es un dispositivo análogo que alberga la memoria conceptual del proyecto, la propuesta de los Laboratorios Bioculturales, las cinco postales y una caja de herramientas preliminar.  
 
+[Descargar](https://archive.org/download/fanzine-transhumancias-tabloide/Fanzine%20Transhumancias%20Tabloide.pdf)
+
 <div class="row aln-center">
     <img src="{{site.baseurl}}/images/A. Imagen Fanzine.jpg">
 </div>
