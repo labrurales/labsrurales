@@ -74,5 +74,10 @@ El Fanzine es un dispositivo análogo que alberga la memoria conceptual del proy
 </div>
 <br>
 
+<div class="row aln-center">
+    <img src="{{site.baseurl}}/images/A. Postales reverso.jpg">
+</div>
+<br>
+
 Agradecimientos a Carmen Pérez Maestro; Sofía González Sandoval; María José Tudela Castro; Eva Martínez y Jesús Fernández Fernández de [La Ponte](https://laponte.org) por hacer de la residencia un espacio de cuidado y conocimientos para generar nuevas formas de pensar y hacer en las ruralidades. 
 Y a todas las organizaciones que compartieron su tiempo, conocimientos y saberes para tejer en conjunto estas postales sonoras: La escuela de Teitau; Azabache Jurásico; La Benéfica de Piloña e Ixuxu.
