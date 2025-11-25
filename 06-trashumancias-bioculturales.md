@@ -71,7 +71,7 @@ El Fanzine es un dispositivo análogo que alberga la memoria conceptual del proy
 
 ### Postales
 
-Las cinco postales realizadas a través de ilustración digital a base de imágenes, sonidos, textos y entrevistas a las cinco organizaciones reconocen la memoria y diversidad biocultural de Asturias.
+Las cinco postales realizadas a través de ilustración digital a base de imágenes, sonidos, textos y entrevistas a las cinco organizaciones reconociendo la memoria y diversidad biocultural de Asturias.
 
 [Descargar]((https://archive.org/details/ilustraciones-postales-bioculturales-asturias))
 
